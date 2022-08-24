@@ -1,8 +1,8 @@
 # Hi there 👋
 
 [![LinkedIn](https://img.shields.io/badge/-jpteixeira-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jpportoteixeira/)
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:anatrone.gabriel@gmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/anatrone/)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:joao.porto.ismart@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/elitejp1/)
 
 - :school: Studing in Kenzie Academy Brasil
 - :books: Currently learning: +React, +Node and +Typescript
