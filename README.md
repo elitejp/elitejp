@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hi there 👋
+
+[![LinkedIn](https://img.shields.io/badge/-jpteixeira-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jpportoteixeira/)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:anatrone.gabriel@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/anatrone/)
+
+- :school: Studing in Kenzie Academy Brasil
+- :books: Currently learning: +React, +Node and +Typescript
+- :rocket: Programming Skills: HTML, CSS, JavaScript, DOM, POO, API, React, Redux, Context, TypeScript, SQL 
+- :open_file_folder: [Certificates](https://drive.google.com/drive/folders/1gcx2jMorBIDHLFnvIivKPCfpAJig0Ooq?usp=sharing)
 
 <!--
 **elitejp/elitejp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
